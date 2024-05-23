@@ -19,7 +19,7 @@ int BinarySearch(int arr[], int size, int key){
 }
 
 int main() {
-    int arr[5]={1,2,3,4,5};
+    int arr[5]={681,20,3919,94,5978};
     int size=sizeof(arr)/sizeof(int);
     
     int key;
